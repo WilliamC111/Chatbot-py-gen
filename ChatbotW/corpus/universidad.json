@@ -1,0 +1,220 @@
+{
+    "dialogos": [
+    {
+    "pregunta": "¿Cuál es la historia de la Universidad Pedagógica y Tecnológica de Colombia?",
+    "respuesta": "La Universidad Pedagógica y Tecnológica de Colombia fue fundada el 10 de octubre de 1953 por el presidente Gustavo Rojas Pinilla. La universidad tiene su sede en Tunja, Boyacá, y cuenta con ocho facultades, 52 programas de pregrado y 23 de posgrado."
+    },
+    {
+    "pregunta": "¿Cuáles son las facultades de la Universidad Pedagógica y Tecnológica de Colombia?",
+    "respuesta": "Las facultades de la UPTC son:\n\n* Ciencias Básicas\n* Ciencias de la Educación\n* Ciencias Humanas\n* Ingenierías\n* Ciencias Económicas y Administrativas\n* Ciencias de la Salud\n* Ciencias Agropecuarias\n* Ciencias Jurídicas y Políticas."
+    },
+    {
+    "pregunta": "¿Cuáles son los programas de pregrado de la Universidad Pedagógica y Tecnológica de Colombia?",
+    "respuesta": "Ofrece 52 programas de pregrado en las siguientes áreas:\n\n* Educación\n* Ingeniería\n* Ciencias Sociales\n* Ciencias Económicas\n* Ciencias de la Salud\n* Ciencias Agropecuarias\n* Ciencias Jurídicas y Políticas."
+    },
+    {
+    "pregunta": "¿Cuáles son los programas de posgrado de la Universidad Pedagógica y Tecnológica de Colombia?",
+    "respuesta": "Ofrece 23 programas de posgrado en las siguientes áreas:\n\n* Educación\n* Ingeniería\n* Ciencias Sociales\n* Ciencias Económicas\n* Ciencias de la Salud\n* Ciencias Agropecuarias\n* Ciencias Jurídicas y Políticas"
+    },
+    {
+    "pregunta": "¿Cuál es la misión de la Universidad Pedagógica y Tecnológica de Colombia?",
+    "respuesta": "La misión de la Universidad Pedagógica y Tecnológica de Colombia es formar profesionales competentes, éticos y comprometidos con el desarrollo social y económico del país."
+    },
+    {
+    "pregunta": "¿Cuál es la visión de la Universidad Pedagógica y Tecnológica de Colombia?",
+    "respuesta": "La visión es ser una universidad líder en educación superior, comprometida con la excelencia académica, la investigación y la innovación."
+    },
+    {
+    "pregunta": "¿Dónde se encuentra la Universidad Pedagógica y Tecnológica de Colombia?",
+    "respuesta": "La Universidad Pedagógica y Tecnológica de Colombia tiene su sede en Tunja, Boyacá. También cuenta con sedes en Sogamoso, Duitama y Chiquinquirá."
+    },
+    {
+    "pregunta": "¿Cómo puedo contactarme con la Universidad Pedagógica y Tecnológica de Colombia?",
+    "respuesta": "Puedes contactarte con la Universidad Pedagógica y Tecnológica de Colombia a través de su sitio web, correo electrónico o teléfono.\n\n* Sitio web: https://www.uptc.edu.co/\n* Correo electrónico: info@uptc.edu.co\n* Teléfono: +57 8 742 00 00."
+    },
+    {
+    "pregunta": "¿Cuáles son los retos de la Universidad?",
+    "respuesta": "Enfrenta varios retos, entre ellos:\n\n- La falta de recursos financieros.\n- La competencia de otras universidades.\n- La necesidad de adaptarse a los cambios tecnológicos."
+    },
+    {
+    "pregunta": "¿Qué consejos darías a los estudiantes que están estudiando en esta universidad?",
+    "respuesta": "A los estudiantes que están estudiando actualmente les recomendaría que se involucren en la comunidad estudiantil. Hay muchas oportunidades para participar en actividades extracurriculares, como deportes, clubes y organizaciones estudiantiles."
+    },
+    {
+    "pregunta": "¿Cuales son los colores de la bandera institucional?",
+    "respuesta": "Está compuesta de dos colores, el ocre y negro. Representando respectivamente riqueza y prudencia."
+    },
+    {
+    "pregunta": "¿Qué servicios ofrece la Uptc?",
+    "respuesta": "* Servicios internos\n* Servicios Externos\n* Gestion social."
+    },
+    {
+    "pregunta": "¿Información de biblioteca?",
+    "respuesta": "Cuenta con dos catálogos, para biblioteca presencial y digital; además de la plataforma oficial de biblioteca."
+    },
+    {
+    "pregunta": "¿Qué requisitos debo cumplir para participar en un intercambio estudiantil?",
+    "respuesta": "Para participar en un intercambio estudiantil, debes cumplir con requisitos como tener un buen rendimiento académico, completar ciertos créditos, contar con la aprobación de tu facultad y presentar los documentos solicitados por la universidad de destino."
+    },
+    {
+    "pregunta": "¿Cómo se eligen los estudiantes que participarán en una Misión Académica?",
+    "respuesta": "La selección de estudiantes para una Misión Académica se realiza a través de un proceso competitivo que evalúa el rendimiento académico, la motivación, la relevancia del área de estudio y la disponibilidad de cupos en la misión."
+    },
+    {
+    "pregunta": "¿Qué tipo de apoyo económico se ofrece para los cursos de inmersión lingüística?",
+    "respuesta": "La Universidad asume el costo de los tiquetes aéreos (ida y regreso) para los cursos de inmersión lingüística, sujeto a disponibilidad presupuestal. Sin embargo, los gastos de manutención, vivienda, visa y otros trámites son responsabilidad del estudiante."
+    },
+    {
+    "pregunta": "¿Cómo puedo obtener apoyo financiero para mi intercambio estudiantil?",
+    "respuesta": "Puedes explorar oportunidades de becas ofrecidas por entidades externas, consultar con la DiRI de la UPTC para posibles programas de financiamiento y verificar si la universidad de destino ofrece ayudas económicas para estudiantes de intercambio."
+    },
+    {
+    "pregunta": "¿En qué consiste la doble titulación interinstitucional?",
+    "respuesta": "La doble titulación interinstitucional permite cursar varios semestres en otra universidad con la que la UPTC tenga convenio. Al completar los estudios de manera exitosa, se obtienen dos títulos, uno de cada universidad involucrada."
+    },
+    {
+    "pregunta": "¿Puedo participar en un intercambio estudiantil si mi promedio académico no es alto?",
+    "respuesta": "El promedio académico es un criterio importante, pero no el único. Se evalúan otros aspectos como la motivación, la relevancia del intercambio para tu formación y el cumplimiento de requisitos específicos de la universidad de destino."
+    },
+    {
+    "pregunta": "¿Qué tipos de eventos académicos puedo considerar para participar?",
+    "respuesta": "Puedes participar como ponente en diversos eventos académicos como conferencias, congresos, simposios, coloquios, seminarios, foros y paneles. Estos son espacios importantes para compartir conocimientos y experiencias con la comunidad académica."
+    },
+    {
+    "pregunta": "¿Qué es una estancia de investigación?",
+    "respuesta": "Una estancia de investigación es una actividad académica en la que un estudiante lleva a cabo estudios, análisis, exposiciones o experimentaciones complementarias a sus procesos de investigación bajo la tutoría de un investigador en la institución de destino."
+    },
+    {
+    "pregunta": "¿Qué beneficios se obtienen de realizar una rotación médica?",
+    "respuesta": "La rotación médica permite a los estudiantes de ciencias de la salud poner en práctica sus conocimientos y habilidades en distintos campos y especialidades de la salud, adquiriendo experiencia clínica valiosa para su formación profesional."
+    },
+    {
+    "pregunta": "¿Qué aspectos se evalúan para seleccionar a los estudiantes que realizarán prácticas?",
+    "respuesta": "Para la selección de estudiantes que realizarán prácticas, se evalúan aspectos como el desempeño académico, la disponibilidad de cupos en las empresas o entidades, la afinidad con el área de especialidad y la motivación para realizar la práctica."
+    },
+    {
+    "pregunta": "¿Qué requisitos debo cumplir para participar en una doble titulación?",
+    "respuesta": "Los requisitos para participar en una doble titulación incluyen cumplir con un porcentaje mínimo de créditos aprobados en la UPTC, tener un buen rendimiento académico, obtener la aprobación de la facultad y cumplir con las condiciones específicas del convenio de doble titulación."
+    },
+    {
+    "pregunta": "¿Qué es un internado rotatorio en el programa de Medicina?",
+    "respuesta": "El internado rotatorio en el programa de Medicina es una actividad académica en los semestres doce y trece, donde los estudiantes desarrollan competencias, habilidades y destrezas correspondientes a diferentes áreas clínicas y de atención primaria, preparándose para su futura práctica profesional."
+    },
+    {
+    "pregunta": "¿Cómo se define la duración de una estancia de investigación?",
+    "respuesta": "La duración de una estancia de investigación puede variar y se define en función de la naturaleza y objetivos de la investigación complementaria que se va a realizar en la institución de destino, acordada entre el estudiante y su tutor académico."
+    },
+    {
+    "pregunta": "¿Cuándo se realizan las rotaciones médicas?",
+    "respuesta": "Las rotaciones médicas se realizan en momentos específicos de la formación académica, generalmente en etapas avanzadas del programa de estudios en ciencias de la salud, donde los estudiantes pueden aplicar sus conocimientos teóricos en entornos clínicos reales."
+    },
+    {
+    "pregunta": "¿Qué se espera lograr con una Misión Académica?",
+    "respuesta": "Con una Misión Académica, se busca lograr un intercambio de conocimientos en un área determinada a nivel académico, científico, investigativo o empresarial. Los participantes tienen la oportunidad de aprender, colaborar y establecer relaciones internacionales en su campo de estudio."
+    },
+    {
+    "pregunta": "¿Cómo se pueden financiar las estancias de investigación?",
+    "respuesta": "Las estancias de investigación pueden ser financiadas a través de becas y ayudas ofrecidas por la universidad de destino, entidades gubernamentales, fundaciones, organismos internacionales o programas de financiamiento para la investigación, dependiendo de la disponibilidad y criterios de cada fuente de financiamiento."
+    },
+    {
+    "pregunta": "¿Qué oportunidades de aprendizaje brinda un internado rotatorio?",
+    "respuesta": "Un internado rotatorio brinda la oportunidad de aprender de forma práctica y directa en diferentes áreas clínicas y especialidades de la salud. Los estudiantes adquieren experiencia en el manejo de casos reales, la interacción con pacientes y el trabajo en equipos multidisciplinarios."
+    },
+    {
+    "pregunta": "¿Cuál es la duración típica de una rotación médica?",
+    "respuesta": "La duración típica de una rotación médica puede variar, pero suele ser de varias semanas o meses, permitiendo que los estudiantes tengan una experiencia significativa en el entorno clínico y puedan abordar diferentes casos y situaciones médicas durante ese período."
+    },
+    {
+    "pregunta": "¿Cuáles son los documentos requeridos para solicitar un intercambio estudiantil?",
+    "respuesta": "Los documentos requeridos para solicitar un intercambio estudiantil pueden incluir formulario de solicitud, expediente académico, carta de motivación, cartas de recomendación, comprobante de idiomas, pasaporte, entre otros. La lista exacta puede variar según la universidad y el programa de intercambio."
+    },
+    {
+    "pregunta": "¿Qué tipo de apoyo brinda la UPTC para los estudiantes en intercambio estudiantil?",
+    "respuesta": "La UPTC brinda apoyo a los estudiantes en intercambio estudiantil al exonerarlos del pago de matrícula y derechos complementarios durante el periodo académico de intercambio. Además, asume la totalidad o parte del costo de tiquetes aéreos, sujeto a disponibilidad presupuestal y aprobación del Comité para la Internacionalización."
+    },
+    {
+    "pregunta": "¿En qué consiste una práctica en la UPTC?",
+    "respuesta": "Una práctica en la UPTC es una actividad académica en la que el estudiante realiza actividades relacionadas con su área de especialidad en una empresa privada, entidad del sector público o grupo social. La práctica está supervisada por un coordinador y contribuye al desarrollo de habilidades y conocimientos prácticos."
+    },
+    {
+    "pregunta": "¿Qué es un evento académico?",
+    "respuesta": "Un evento académico es una reunión o encuentro en el que se comparten conocimientos, se presentan investigaciones, se discuten temas relevantes y se fomenta la interacción académica. Pueden incluir conferencias, congresos, simposios, coloquios, seminarios, foros, paneles y otros formatos similares."
+    },
+    {
+    "pregunta": "¿Cuál es la duración típica de una práctica en la UPTC?",
+    "respuesta": "La duración típica de una práctica en la UPTC puede variar según el programa académico y los requisitos específicos. Por lo general, las prácticas tienen una duración determinada de semanas o meses, durante las cuales el estudiante adquiere experiencia práctica en su campo de estudio."
+    },
+    {
+    "pregunta": "¿Qué se espera lograr con una estancia de investigación?",
+    "respuesta": "Con una estancia de investigación, se busca que el estudiante realice estudios, análisis, exposiciones o experimentaciones complementarias a sus procesos de investigación, enriqueciendo su proyecto de investigación principal. La estancia brinda la oportunidad de acceder a recursos y expertos que pueden contribuir al desarrollo de su trabajo."
+    },
+    {
+    "pregunta": "¿Cómo se organiza una misión académica?",
+    "respuesta": "Una misión académica se organiza a través de la planificación y coordinación de la UPTC en colaboración con la institución de destino. Se establecen objetivos, se define el programa de actividades, se seleccionan los participantes y se coordinan los aspectos logísticos. La misión busca un intercambio de conocimientos en un área específica entre las instituciones involucradas."
+    },
+    {
+    "pregunta": "¿Qué es un curso de inmersión lingüística?",
+    "respuesta": "Un curso de inmersión lingüística es una experiencia temporal en la que el estudiante se sumerge en un entorno donde se habla el idioma que desea perfeccionar. Durante este curso, se busca mejorar la competencia lingüística y la comunicación en situaciones reales, lo que contribuye al dominio del idioma."
+    },
+    {
+    "pregunta": "¿Qué requisitos debo cumplir para participar en una rotación médica?",
+    "respuesta": "Los requisitos para participar en una rotación médica pueden incluir haber completado ciertos cursos, tener un rendimiento académico adecuado, contar con la aprobación de la facultad y cumplir con las condiciones y requisitos específicos establecidos por la universidad y el programa de rotación."
+    },
+    {
+    "pregunta": "¿Cómo se evalúan las prácticas realizadas por los estudiantes?",
+    "respuesta": "Las prácticas realizadas por los estudiantes se evalúan mediante la supervisión del coordinador de la práctica y la retroalimentación del lugar donde se llevan a cabo. Se pueden utilizar rúbricas, informes, presentaciones y otras herramientas para evaluar el desempeño, el cumplimiento de objetivos y el aprendizaje adquirido durante la práctica."
+    },
+    {
+    "pregunta": "¿Qué opciones de movilidad académica se ofrecen para estudiantes de Medicina?",
+    "respuesta": "Para estudiantes de Medicina, se ofrecen opciones de movilidad académica como el internado rotatorio, que les permite desarrollar competencias en diferentes áreas clínicas. Además, pueden participar en misiones académicas y eventos académicos relacionados con la salud para ampliar sus conocimientos y experiencias en el campo médico."
+    },
+    {
+    "pregunta": "¿Puedo participar en más de un tipo de movilidad académica durante mi período de estudios?",
+    "respuesta": "Sí, es posible participar en más de un tipo de movilidad académica durante tu período de estudios. Por ejemplo, puedes realizar un intercambio estudiantil en un semestre y luego participar en una estancia de investigación en otro. Es importante coordinar y cumplir con los requisitos para cada tipo de movilidad."
+    },
+    {
+    "pregunta": "¿Qué se espera que los estudiantes aprendan durante una estancia de investigación?",
+    "respuesta": "Durante una estancia de investigación, se espera que los estudiantes adquieran habilidades avanzadas en metodologías de investigación, análisis de datos, presentación de resultados y redacción académica. También se busca que amplíen su visión sobre el tema de investigación y fortalezcan su capacidad para abordar preguntas científicas de manera crítica y creativa."
+    },
+    {
+    "pregunta": "¿Qué tipo de empresas o entidades suelen recibir a los estudiantes para realizar prácticas?",
+    "respuesta": "Los estudiantes pueden realizar prácticas en una variedad de empresas privadas, entidades del sector público, organizaciones no gubernamentales, instituciones educativas, hospitales, laboratorios, agencias de investigación y otras entidades relacionadas con su área de estudio. Las posibilidades son amplias y pueden adaptarse a la especialidad del estudiante."
+    },
+    {
+    "pregunta": "¿Qué documentos debo presentar para solicitar una doble titulación?",
+    "respuesta": "Para solicitar una doble titulación, debes presentar documentos como el formulario de solicitud, expediente académico, carta de motivación, plan de estudios, carta de recomendación, entre otros. Es importante seguir las instrucciones específicas y cumplir con los requisitos de la UPTC y la universidad de destino."
+    },
+    {
+    "pregunta": "¿Cómo se reconocen académicamente las asignaturas cursadas durante un intercambio estudiantil?",
+    "respuesta": "Las asignaturas cursadas durante un intercambio estudiantil se reconocen académicamente mediante un proceso de homologación. La UPTC evalúa el contenido de las asignaturas, la carga horaria, los objetivos y otros criterios para determinar su equivalencia con asignaturas de su plan de estudios, garantizando así el reconocimiento de los créditos correspondientes."
+    },
+    {
+    "pregunta": "¿Qué se espera que los estudiantes logren durante un curso de inmersión lingüística?",
+    "respuesta": "Durante un curso de inmersión lingüística, se espera que los estudiantes mejoren su habilidad para comunicarse en el idioma objetivo. Esto incluye la comprensión oral y escrita, la expresión oral y escrita, así como el dominio de vocabulario y gramática. La inmersión en un entorno lingüístico contribuye a una mayor fluidez y confianza en el idioma."
+    },
+    {
+    "pregunta": "¿Qué beneficios se obtienen de participar en una misión académica?",
+    "respuesta": "Participar en una misión académica brinda varios beneficios, incluyendo la oportunidad de intercambiar conocimientos, establecer colaboraciones académicas, ampliar la perspectiva en un área específica, adquirir experiencia internacional y fortalecer la red de contactos profesionales. Además, contribuye al enriquecimiento académico y cultural de los participantes."
+    },
+    {
+    "pregunta": "¿Qué opciones de movilidad académica están disponibles para estudiantes de Ingeniería?",
+    "respuesta": "Los estudiantes de Ingeniería pueden participar en intercambios estudiantiles, estancias de investigación, misiones académicas y eventos académicos relacionados con la ingeniería. Además, tienen la opción de realizar prácticas en empresas del sector industrial o tecnológico para aplicar sus conocimientos en un entorno real de trabajo."
+    },
+    {
+    "pregunta": "¿Qué se evalúa durante un internado rotatorio en el programa de Medicina?",
+    "respuesta": "Durante un internado rotatorio en el programa de Medicina, se evalúa el desempeño del estudiante en áreas clínicas y de atención primaria. Se considera su habilidad para aplicar conocimientos teóricos en situaciones prácticas, la interacción con pacientes, la toma de decisiones clínicas y el trabajo en equipo interdisciplinario."
+    },
+    {
+    "pregunta": "¿Qué es el seguro estudiantil complementario?",
+    "respuesta": "El seguro estudiantil complementario es un tipo de seguro que brinda cobertura adicional a los estudiantes durante su período de intercambio estudiantil o movilidad académica. Puede cubrir aspectos como gastos médicos, repatriación, responsabilidad civil y otros riesgos. La UPTC exonera a los estudiantes de este pago en ciertos casos durante la movilidad."
+    },
+    {
+    "pregunta": "¿Qué se espera que los estudiantes logren durante un evento académico?",
+    "respuesta": "Durante un evento académico, se espera que los estudiantes presenten y compartan sus investigaciones, ideas, experiencias y perspectivas en su área de estudio. También tienen la oportunidad de aprender de otros participantes, establecer contactos profesionales y explorar nuevas tendencias y avances en su campo académico."
+    },
+    {
+    "pregunta": "¿Puedo participar en un intercambio estudiantil si mi nivel de idioma es básico?",
+    "respuesta": "El nivel de idioma puede ser un factor importante para participar en un intercambio estudiantil, especialmente si el idioma es diferente al utilizado en tu institución de origen y destino. Es recomendable tener al menos un nivel intermedio para asegurar una comunicación efectiva durante tu experiencia de intercambio."
+    }
+    ]
+    }
